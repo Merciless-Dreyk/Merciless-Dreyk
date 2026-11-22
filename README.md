@@ -1,6 +1,8 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://i.gifer.com/1IAH.gif" width="480" height="270.000" />
+  <img src="<img width="1280" height="720" alt="1IAH" src="https://github.com/user-attachments/assets/b3688709-a5e6-4955-a6c1-d5c01e1cdeed" />
+"
+" />
 </div>
 
 <!--
