@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <iframe src="https://gifer.com/embed/1IAH" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.gifer.com/1IAH.gif)"/>
 </div>
 
 <!--
