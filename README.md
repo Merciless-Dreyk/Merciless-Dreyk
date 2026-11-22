@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://i.gifer.com/1IAH.gif"/>
+  <img src="https://i.gifer.com/1IAH.gif" width="100" height="100" />
 </div>
 
 <!--
