@@ -1,6 +1,11 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b3688709-a5e6-4955-a6c1-d5c01e1cdeed" alt="header gif" width="300" />
+  <img
+    src="https://github.com/user-attachments/assets/b3688709-a5e6-4955-a6c1-d5c01e1cdeed"
+    alt="header gif"
+    width="100%"
+    style="max-width: 600px; border-radius: 16px;"
+  />
 </div>
 
 <!--
