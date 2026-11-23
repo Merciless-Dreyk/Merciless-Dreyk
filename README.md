@@ -1,6 +1,6 @@
 ## Hi there 👋
-<div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/b3688709-a5e6-4955-a6c1-d5c01e1cdeed" alt="header gif" width="1280" height="720" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b3688709-a5e6-4955-a6c1-d5c01e1cdeed" alt="header gif" width="600" />
 </div>
 
 <!--
