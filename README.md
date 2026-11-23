@@ -1,4 +1,10 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<p align="center">
+<a href="https://t.me/merciless_dreyk"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"></a>
+</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b3688709-a5e6-4955-a6c1-d5c01e1cdeed" alt="header gif" width="300" />
 </div>
