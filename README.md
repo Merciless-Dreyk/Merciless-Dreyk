@@ -9,7 +9,7 @@
   <img src="https://github.com/user-attachments/assets/b3688709-a5e6-4955-a6c1-d5c01e1cdeed" alt="header gif" width="500" />
 </div>
 
-###About Me :
+About Me :
 
 I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
