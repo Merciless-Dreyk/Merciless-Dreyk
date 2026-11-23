@@ -9,7 +9,7 @@
   <img src="https://github.com/user-attachments/assets/b3688709-a5e6-4955-a6c1-d5c01e1cdeed" alt="header gif" width="500" />
 </div>
 
-About Me :
+👨‍💻 About Me :
 
 I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
@@ -19,6 +19,15 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 📫 How can you contact me? My telegram: @merciless_dreyk
 
 ---
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
 
 <!--
 **Merciless-Dreyk/Merciless-Dreyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
